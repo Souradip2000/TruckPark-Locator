@@ -1,6 +1,6 @@
 # TruckPark India: India's Truck Parking Lot Locator
 
-<img src="https://play-lh.googleusercontent.com/BflXTZJI_N-WiZmCU5icEYFj2cqGXmqAQp1U-am_n6ymfUA0-_VcCNRzPCd4gr2Q7w" width=600px>
+<img src="https://play-lh.googleusercontent.com/BflXTZJI_N-WiZmCU5icEYFj2cqGXmqAQp1U-am_n6ymfUA0-_VcCNRzPCd4gr2Q7w" width=200px>
 
 ---
 
