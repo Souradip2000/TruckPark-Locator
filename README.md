@@ -2,7 +2,7 @@
 
 # TruckPark India: India's Truck Parking Lot Locator
 
-<div style="margin-left: 50px;">
+<div style="margin-left: 200px;">
     <img src="https://play-lh.googleusercontent.com/BflXTZJI_N-WiZmCU5icEYFj2cqGXmqAQp1U-am_n6ymfUA0-_VcCNRzPCd4gr2Q7w" width=200px>
 </div>
 
