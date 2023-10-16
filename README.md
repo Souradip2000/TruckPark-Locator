@@ -1,26 +1,30 @@
 <p align="center">
-
+<div align="center" style="margin-left: auto; margin-right: auto;">
 # TruckPark India: India's Truck Parking Lot Locator
+</div>
 
 <div align="center" style="margin-left: auto; margin-right: auto;">
     <img src="https://play-lh.googleusercontent.com/BflXTZJI_N-WiZmCU5icEYFj2cqGXmqAQp1U-am_n6ymfUA0-_VcCNRzPCd4gr2Q7w" width=200px>
 </div>
 
 ---
-
+<div align="center" style="margin-left: auto; margin-right: auto;">
 ## 📌 Introduction
+</div>
 
 India’s highways are bustling with thousands of trucks moving goods across its vast landscape. Yet, a consistent challenge faced by drivers is locating safe, convenient parking spaces along their routes. **TruckPark India** aims to bridge this gap, ensuring safety and efficiency in India's supply chain.
 
 ---
-
+<div align="center" style="margin-left: auto; margin-right: auto;">
 ## 🚀 Motivation
+</div>
 
 Truck drivers often grapple with uncertainty on where to rest next. Either they stop prematurely, reducing their day's efficiency, or risk safety by overdriving or parking haphazardly along highways. Our solution provides drivers with real-time data on the closest parking spaces, making their journeys safer and more efficient.
 
 ---
-
+<div align="center" style="margin-left: auto; margin-right: auto;">
 ## 🌟 Features
+</div>
 
 - **For Parking Lot Owners:** An interface to mark and update details of their parking lots along highways.
 - **For Truck Drivers:** Real-time visualization of nearby parking lots, their distances, and capacities.
@@ -28,8 +32,9 @@ Truck drivers often grapple with uncertainty on where to rest next. Either they 
 - **Safety First:** By informing drivers in advance, we aim to reduce haphazard parking and potential road hazards.
 
 ---
-
+<div align="center" style="margin-left: auto; margin-right: auto;">
 ## 🤖 Future Enhancements
+</div>
 
 - **Automated Capacity Updates:** We're working on automating the process of updating parking lot capacities.
 - **User Feedback System:** Drivers can leave reviews about parking lots, aiding fellow drivers in making informed decisions.
