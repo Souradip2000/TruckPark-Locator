@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center" style="margin-left: auto; margin-right: auto;">
-    # TruckPark India: India's Truck Parking Lot Locator
+    <h1 style="font-size: 2em;">TruckPark India: India's Truck Parking Lot Locator</h1>
 </div>
 
 <div align="center" style="margin-left: auto; margin-right: auto;">
