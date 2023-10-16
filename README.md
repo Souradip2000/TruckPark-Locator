@@ -1,3 +1,5 @@
+<p align="center">
+
 # TruckPark India: India's Truck Parking Lot Locator
 
 <img src="https://play-lh.googleusercontent.com/BflXTZJI_N-WiZmCU5icEYFj2cqGXmqAQp1U-am_n6ymfUA0-_VcCNRzPCd4gr2Q7w" width=200px>
@@ -32,3 +34,5 @@ Truck drivers often grapple with uncertainty on where to rest next. Either they 
 - **Integration with Other Platforms:** Plans to integrate with logistic platforms for a comprehensive solution.
 
 ---
+
+</p>
